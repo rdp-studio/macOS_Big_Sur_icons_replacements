@@ -1,38 +1,9 @@
 # macOS Big Sur - Replacements Icons
-***Check out the open beta for a bookmarking service I'm working on, [WebBites.io](https://bit.ly/elias-webbites).
-<br>
-All feedback is appreciated, you can do that [@elrumo](https://bit.ly/elias-twitter) on Twitter***
 
 Replacement icons for popular apps in the style of macOS Big Sur.
 To view a full list of icons, go to [this website](https://macosicons.com), now you can also submit icons directly from there.
 
 Please note, for my own sanity I will be checking and updating this site around twice a week, on Mondays and Thursdays. So if you make any pull requests, expect them to be merged/checked around those days. Thanks!
-
-# Table of contents
-
-1. [How do I change the app icon on my mac?](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/blob/master/README.md#how-do-i-change-the-app-icon-on-my-mac)
-2. [I'd like to contribute](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/blob/master/README.md#id-like-to-contribute)
-   1. [I don't know how to make a pull request or I'm not familiar with GitHub](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/blob/master/README.md#i-dont-know-how-to-make-a-pull-request-or-im-not-familiar-with-github)
-3. [List of icons](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/blob/master/README.md#list)
-4. [Credits](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/blob/master/README.md#credits)
-
-## How do I change the app icon on my mac?
-
-It's super easy! We've made sure that all icons here work with no problem. You just need to download the icon you want, find the app to update on Finder, select it and "File/Get Info" or "cmd + i and drag and drop the downloaded .icns file to the new window.
-<br>
-<img style="text-align: left" src="https://i.imgur.com/0Vj6sFS.png" width="300">
-
-## I'd like to contribute
-Download the template for [Sketch](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/raw/master/design/Template%20-%20Icon%20-%20App.sketch), [Figma](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/raw/master/design/Template_App_Icon.fig), [Photoshop](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/raw/master/design/Template%20-%20Icon%20-%20App.psd) or [Illustrator](https://github.com/elrumo/macOS_Big_Sur_icons_replacements/raw/master/design/Template%20-%20Icon%20-%20App.ai).
-
-Here are some rules you show know:
-
-- Don't use spaces for the icon names, instead use "\_"
-- When using the template, export in 1x (high res).
-- Go to [macosicons.com](https://macosicons.com/) and click on "Contribute"
-- If you are creating an icon for an open-source project, please consider submitting the icon to their respective repository for their use as well.
-
-If you'd like to contribute code to the website, feel free to create a pull request or an issue exlaining what you're planning on doing.
 
 ## List
 
