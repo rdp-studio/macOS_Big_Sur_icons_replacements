@@ -63,11 +63,10 @@
     <!-- Footer -->
     <section>
       <footer class="p-b-20 coral-Body--S">
-        Made with ❤️ by <a href="https://bit.ly/elias-webbites" target="_blank" class="coral-Link">Elias</a>
         <dir class="d-inline-block m-0 p-l-15 p-r-10">
           <hr class="coral-Divider--M coral-Divider--vertical m-0" style="height:14px;">
         </dir>
-        Full icon <a href="https://github.com/elrumo/macOS_Big_Sur_icons_replacements#credits" target="_blank" class="coral-Link">credits</a>
+        Full icon <a href="https://github.com/rdp-studio/macOS_Big_Sur_icons_replacements#credits" target="_blank" class="coral-Link">credits</a>
       </footer>
     </section>
   </div>
@@ -159,7 +158,7 @@ export default {
 
       let parentObj = []
       let list = []
-      // fetch('https://raw.githubusercontent.com/elrumo/macOS_Big_Sur_icons_replacements/master/icns.txt')
+      // fetch('https://raw.githubusercontent.com/rdp-studio/macOS_Big_Sur_icons_replacements/master/icns.txt')
       //   .then(response => response.text()).then((data) => {
       //     list = data.split(",\n")
       //     console.log(list);
